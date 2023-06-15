@@ -34,7 +34,7 @@ body {
 .profile {
   width: 317px;
   height: 317px;
-  background-image: url("./components/imgs/yp\ \(1\).jpeg");
+  background-image: url("./assets/imgs/profileImg.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -110,7 +110,7 @@ body {
 
 .v0_229 {
   width: 36px;
-  background-image: url("./components/imgs/mail.png");
+  background-image: url("./assets/imgs/mail.png");
   color: rgba(55, 65, 81, 1);
   position: absolute;
   top: 9px;
@@ -243,7 +243,7 @@ body {
   width: 25px;
   height: 25px;
   /* background: rgba(145,142,155,1); */
-  background-image: url("./components/imgs/gh.png");
+  background-image: url("./assets/imgs/gh.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -257,7 +257,7 @@ body {
   width: 25px;
   height: 25px;
   /* background: rgba(145,142,155,1); */
-  background-image: url("./components/imgs/twitter.png");
+  background-image: url("./assets/imgs/twitter.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -271,7 +271,7 @@ body {
   width: 25px;
   height: 25px;
   /* background: rgba(145,142,155,1); */
-  background-image: url("./components/imgs/insta.png");
+  background-image: url("./assets/imgs/insta.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -285,7 +285,7 @@ body {
   width: 25px;
   height: 25px;
   /* background: rgba(145,142,155,1); */
-  background-image: url("./components/imgs/linkedin.png");
+  background-image: url("./assets/imgs/linkedin.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -294,3 +294,6 @@ body {
   top: 779px;
   left: 335px;
 }
+
+
+
